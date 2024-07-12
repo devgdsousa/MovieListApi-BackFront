@@ -1,0 +1,24 @@
+* {
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://criticalhits.com.br/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2021/06/netflix-notificacao-filme-serie-alerta-03-768x432.png.webp);
+    background-color: #000000;
+    color: #000;
+    background-size: 100%;
+}
+
+
+a {
+  text-decoration: none;
+  color: #f7d354;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: #b8930c;
+}

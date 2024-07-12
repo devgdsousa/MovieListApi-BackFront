@@ -1,0 +1,13 @@
+.movie-card {
+    width: 200px;
+    height: 300px;
+  }
+  
+  .movie-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  
+  

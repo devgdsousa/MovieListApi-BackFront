@@ -1,0 +1,6 @@
+.movieDetail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: brown;
+}

@@ -1,0 +1,40 @@
+
+.movie-details {
+    display: flex;
+    color: #fca70b;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .movie-details .info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #fca70b;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #1d1b1b;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    
+  }
+  
+  .movie-details img {
+    max-width: 100%;
+    height: auto;
+    max-height: 400px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .movie-details h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .movie-details p {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
